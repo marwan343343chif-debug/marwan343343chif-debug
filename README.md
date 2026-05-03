@@ -14,7 +14,7 @@
 
 ```
   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-  ░  [ YOUR NAME ]  ·  [ role ]  ·  [ role ]         ░
+  ░  [ Marwan Mrabti ]  ·  [ Nouvilst ]  ·  [ Developer ]         ░
   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
 
@@ -27,7 +27,7 @@
 ─────────────────────────────────────────────────────────────────────── -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A89060&center=true&vCenter=true&width=500&lines=[Line+1];[Line+2];[Line+3];[Line+4])](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=a89060&style=flat-square&label=profile+views" />
+<img src="https://komarev.com/ghpvc/?username=marwan343343chif-debug&color=a89060&style=flat-square&label=profile+views" />
 
 </div>
 
@@ -35,19 +35,17 @@
 
 ## 👤 About me
 
-```yaml
-name        : [ Your Name ]
-role        : [ Role 1 ] · [ Role 2 ]
-location    : [ City, Country ]
-currently   : [ What you're working on ]
-learning    : [ What you're learning ]
-ask me about: [ Topics you can help with ]
-fun fact    : [ Something surprising ]
+```markdown
+name        : [ Marwan Mrabti ]
+role        : [ Novelist ] · [ Developer ]
+location    : [ Antarctica ]
+currently   : [ ETM - Eternal Memories ]
+learning    : [ Blender - Unity ]
+ask me about: [ Anything you like :3 ]
+fun fact    : [ i am only 16 ! ]
 ```
 
-[ Write 2–3 lines about yourself here. Who you are, what drives you,
-what you're building and why. Keep it personal — this is a human page,
-not a CV. ]
+i am just an idiot who loves being an idiot.
 
 ---
 
@@ -60,42 +58,37 @@ not a CV. ]
 ─────────────────────────────────────────────────────────────────────── -->
 
 ### 💻 Languages
-<!-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) -->
-<!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) -->
-<!-- ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) -->
-`[ uncomment or add your language badges here ]`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white).
 
 ### 🧰 Frameworks & Libraries
-`[ uncomment or add your framework badges here ]`
-
-### 🗄️ Databases
-`[ uncomment or add your database badges here ]`
+> Unity - Vite - Nexus - Nodejs
 
 ### ☁️ Cloud & DevOps
 `[ uncomment or add your cloud/devops badges here ]`
 
 ### 🎨 Design & Creative Tools
-`[ uncomment or add your creative tool badges here ]`
+> Blender - Krita - Adobe Tools - FL Studio
 
 ### 🔧 Tools & Workflow
-<!-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) -->
-<!-- ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) -->
-<!-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) -->
-`[ uncomment or add your workflow tool badges here ]`
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
 
 ---
 
 ## 🌌 Featured Project
 
-> *[ One sentence describing your flagship project. ]*
+> *a Myriad of Memories and Chendrails of Tears for you*
 
 | | |
 |---|---|
-| 🎯 Goal | [ What is this project trying to do? ] |
-| 🛠️ Stack | [ Tech used ] |
-| ✨ Highlight | [ Most interesting technical detail ] |
-| 📅 Status | [ In progress / Released / Paused ] |
-| 🔗 Link | [ URL or "coming soon" ] |
+| 🎯 Goal | Break your heart and Sanity |
+| 🛠️ Stack | More than i want to think about |
+| ✨ Highlight | Everything |
+| 📅 Status | In progress |
+| 🔗 Link | "coming soon" |
 
 ---
 
@@ -115,17 +108,16 @@ not a CV. ]
 
 ## 📊 GitHub Stats
 
-<!--
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=a89060&icon_color=a89060&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marwan343343chif-debug&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=a89060&icon_color=a89060&text_color=c9d1d9)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0d1117&ring=a89060&fire=a89060&currStreakLabel=a89060)
+![GitHub Streak](https://streak-stats.demolab.com?user=marwan343343chif-debug&theme=dark&hide_border=true&background=0d1117&ring=a89060&fire=a89060&currStreakLabel=a89060)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=a89060&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marwan343343chif-debug&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=a89060&text_color=c9d1d9)
 
 </div>
--->
+
 
 `[ Uncomment the stats block above and replace YOUR_USERNAME ]`
 
@@ -133,13 +125,11 @@ not a CV. ]
 
 ## 🏆 GitHub Trophies
 
-<!--
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=marwan343343chif-debug&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
 
 </div>
--->
 
 `[ Uncomment and replace YOUR_USERNAME ]`
 
@@ -147,13 +137,11 @@ not a CV. ]
 
 ## 📈 Contribution Graph
 
-<!--
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&bg_color=0d1117&color=a89060&line=a89060&point=ffffff)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=marwan343343chif-debug&theme=github-compact&hide_border=true&bg_color=0d1117&color=a89060&line=a89060&point=ffffff)
 
 </div>
--->
 
 `[ Uncomment and replace YOUR_USERNAME ]`
 
